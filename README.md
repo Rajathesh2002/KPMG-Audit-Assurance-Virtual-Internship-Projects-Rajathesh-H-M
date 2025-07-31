@@ -138,6 +138,7 @@ This Excel leadsheet simulates how control risks are assessed and documented dur
 📑 [Evergreen Invoices.pdf](Task3_Revenue_Vouching_Leadsheet/Evergreen%20Invoices.pdf)  
 🖼️ [Leadsheet Screenshot](Task3_Revenue_Vouching_Leadsheet/revenue-leadsheet.png)
 
+---
 This project demonstrates how sample revenue entries were vouched against original invoices, and an audit-ready leadsheet was created for review.  
 All 5 samples were validated, and **no discrepancies were found**.
 
