@@ -55,6 +55,11 @@ This project demonstrates my ability to:
 ## 🔗 Inspired by
 
 This project was inspired by the KPMG Virtual Internship program on Forage, and aligns with real-world deliverables expected from audit associates and analysts.
-| Task 2 | Risk Control Evaluation (Process Risk Points) | [View Email](./Task%202%20-%20Risk%20Points%20and%20Controls/Task2_Email_to_Alex.md) |
+
+Task_2_Risk_Control_Evaluation/
+
+
+[View Email](./Task%202%20-%20Risk%20Points%20and%20Controls/Task2_Email_to_Alex.md)
+
 
 
