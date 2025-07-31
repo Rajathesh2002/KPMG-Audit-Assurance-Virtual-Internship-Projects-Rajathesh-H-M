@@ -5,3 +5,5 @@ This task involves evaluating and documenting internal control risks using the p
 📁 **Files Included:**
 - `Evergreen_Audit_Leadsheet_Task_Completed.xlsx`
 - `leadsheet-screenshot.png`
+- ![Leadsheet Screenshot](leadsheet-screenshot.png)
+
