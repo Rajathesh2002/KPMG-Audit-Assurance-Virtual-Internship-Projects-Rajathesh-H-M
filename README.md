@@ -78,7 +78,8 @@ Attention to Detail	Invoice traceability, accuracy checks
 📁 File Contents
 RAJATHESH_HM_Task3_Revenue_Vouching_Workpaper.xlsx: Completed Excel leadsheet with invoice matching and findings
 
-revenue-leadsheet.png: Screenshot of the completed leadsheet
+![Revenue Leadsheet](revenue-leadsheet.png)
+: Screenshot of the completed leadsheet
 
 Evergreen Invoices.pdf: Source document containing all 5 invoices used for matching
 
