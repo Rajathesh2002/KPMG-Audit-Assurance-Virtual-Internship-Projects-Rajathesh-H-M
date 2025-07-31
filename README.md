@@ -56,6 +56,21 @@ This project demonstrates my ability to:
 
 This project was inspired by the KPMG Virtual Internship program on Forage, and aligns with real-world deliverables expected from audit associates and analysts.
 
+
+# KPMG Audit Task2 – Revenue Leadsheet Simulation (Excel Project)
+Objective: Prepare a revenue lead schedule using trial balance and chart of accounts mapping.
+📁 Evergreen_Audit_Leadsheet_Task_Completed.xlsx
+
+Skills Used:
+
+VLOOKUP, SUMIF, %/$ Change
+
+COA mapping
+
+Audit-ready formatting & tickmarks
+Outcome: Clean, validated leadsheet ready for audit documentation.
+
+
 # KPMG Audit Task 3 – Revenue Vouching Leadsheet (Excel Project)
 
 This project simulates a real-world audit vouching task from the KPMG Virtual Internship. The goal was to verify the existence and accuracy of revenue samples using subledger and invoice documents.
