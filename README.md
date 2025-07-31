@@ -133,7 +133,11 @@ This Excel leadsheet simulates how control risks are assessed and documented dur
 [View Report → Task_2_Report.md](Task_2_Risk_Control_Evaluation/Task_2_Report.md)
 
 
+📁 Task 3: Revenue Vouching Leadsheet
+📂 Open → Task 3 Workpaper
+🖼️ Screenshot | 📄 View Invoices PDF
 
+This project demonstrates how sample revenue entries were vouched against original invoices, and an audit-ready leadsheet was created for review. All 5 samples were validated, and no discrepancies were found.
 
 
 
