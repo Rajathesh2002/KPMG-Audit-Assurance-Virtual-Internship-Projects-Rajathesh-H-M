@@ -56,54 +56,65 @@ This project demonstrates my ability to:
 
 This project was inspired by the KPMG Virtual Internship program on Forage, and aligns with real-world deliverables expected from audit associates and analysts.
 
-KPMG Audit Task 3 – Revenue Vouching Leadsheet (Excel Project)
-This project simulates a real-world audit vouching task based on the KPMG Virtual Internship Program. The objective is to match invoice samples from a client’s subledger to supporting evidence and document the accuracy of revenue recognition in a professional audit leadsheet.
+# KPMG Audit Task 3 – Revenue Vouching Leadsheet (Excel Project)
 
-🧾 Objective
-To prepare a Revenue Vouching Leadsheet for Evergreen Inc. by:
+This project simulates a real-world audit vouching task from the KPMG Virtual Internship. The goal was to verify the existence and accuracy of revenue samples using subledger and invoice documents.
 
-Matching 5 sample invoices from the subledger with actual invoice documents
+---
 
-Recording findings in an Excel leadsheet
+## 🧾 Objective
 
-Ensuring there are no discrepancies in amount, date, or customer name
+To complete a **Revenue Vouching Leadsheet** by:
+- Sampling invoice records from Evergreen Inc.
+- Matching subledger data to supporting invoice documentation
+- Identifying and reporting any discrepancies
 
-📊 Key Skills Demonstrated
-Area	Skills Used
-Excel Functions	=Difference, data comparison, formatting
-Audit Techniques	Vouching, matching, tick-marking
-Documentation	Clear audit notes, findings summary
-Attention to Detail	Invoice traceability, accuracy checks
+---
 
-📁 File Contents
-RAJATHESH_HM_Task3_Revenue_Vouching_Workpaper.xlsx: Completed Excel leadsheet with invoice matching and findings
+## 📊 Key Skills Demonstrated
+
+| Area                    | Skills Used                                      |
+|-------------------------|--------------------------------------------------|
+| **Excel Functions**     | Manual validation, formula matching, variance detection |
+| **Audit Evidence**      | Sample testing, invoice vouching, findings reporting |
+| **Audit Formatting**    | Tickmarks, working paper structure, WP references |
+| **Documentation**       | Findings summary, client info, date labeling     |
+
+---
+
+## 📁 File Contents
+
+- `RAJATHESH_HM_Task3_Revenue_Vouching_Workpaper.xlsx` – Completed Excel leadsheet
+- `Evergreen Invoices.pdf` – Source invoice samples
+- `revenue-leadsheet.png` – Screenshot of final leadsheet work
+
+---
+
+## 🖼️ Screenshot
 
 ![Revenue Leadsheet](revenue-leadsheet.png)
-: Screenshot of the completed leadsheet
 
-Evergreen Invoices.pdf: Source document containing all 5 invoices used for matching
+---
 
-🖼️ Screenshot
+## ✅ Outcome
 
-✅ Outcome
-This task helped demonstrate my ability to:
+This task reflects my ability to:
+- Perform audit sampling and vouching procedures
+- Cross-verify subledger entries with invoice evidence
+- Maintain audit documentation standards
+- Present clean and audit-ready Excel files
 
-Match subledger records to invoice documents
+---
 
-Identify discrepancies in audit data (if any)
+## 🏷️ Tags
 
-Prepare audit documentation with professional formatting
+`#AuditSimulation` `#Excel` `#KPMG` `#RevenueVouching` `#AccountingInternship` `#FinancialAudit`
 
-Ensure audit assertions like existence and accuracy are satisfied
+---
 
-🏷️ Tags
-#Excel #Audit #KPMG #Vouching #FinancialAudit #InternshipSimulation
+## 🔗 Inspired by
 
-🔗 Inspired by
-This project was inspired by the KPMG Virtual Internship on Forage. It reflects the type of analytical documentation and professional judgment expected in audit engagements.
-
-
-
+This project was built as part of the KPMG Virtual Internship on Forage to demonstrate audit-readiness, documentation skills, and accounting diligence expected in real-world engagements.
 
 
 
