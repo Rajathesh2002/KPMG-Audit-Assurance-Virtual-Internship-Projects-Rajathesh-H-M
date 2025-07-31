@@ -1,4 +1,4 @@
-# KPMG Audit Task – Revenue Leadsheet Simulation (Excel Project)
+# KPMG Audit Task1 – Revenue Leadsheet Simulation (Excel Project)
 
 This project simulates a real-world audit leadsheet preparation task based on a KPMG virtual internship case. The objective is to validate revenue balances using trial balances and chart of accounts, then build a professional audit-ready leadsheet in Excel.
 
@@ -55,6 +55,56 @@ This project demonstrates my ability to:
 ## 🔗 Inspired by
 
 This project was inspired by the KPMG Virtual Internship program on Forage, and aligns with real-world deliverables expected from audit associates and analysts.
+
+KPMG Audit Task 3 – Revenue Vouching Leadsheet (Excel Project)
+This project simulates a real-world audit vouching task based on the KPMG Virtual Internship Program. The objective is to match invoice samples from a client’s subledger to supporting evidence and document the accuracy of revenue recognition in a professional audit leadsheet.
+
+🧾 Objective
+To prepare a Revenue Vouching Leadsheet for Evergreen Inc. by:
+
+Matching 5 sample invoices from the subledger with actual invoice documents
+
+Recording findings in an Excel leadsheet
+
+Ensuring there are no discrepancies in amount, date, or customer name
+
+📊 Key Skills Demonstrated
+Area	Skills Used
+Excel Functions	=Difference, data comparison, formatting
+Audit Techniques	Vouching, matching, tick-marking
+Documentation	Clear audit notes, findings summary
+Attention to Detail	Invoice traceability, accuracy checks
+
+📁 File Contents
+RAJATHESH_HM_Task3_Revenue_Vouching_Workpaper.xlsx: Completed Excel leadsheet with invoice matching and findings
+
+revenue-leadsheet.png: Screenshot of the completed leadsheet
+
+Evergreen Invoices.pdf: Source document containing all 5 invoices used for matching
+
+🖼️ Screenshot
+
+✅ Outcome
+This task helped demonstrate my ability to:
+
+Match subledger records to invoice documents
+
+Identify discrepancies in audit data (if any)
+
+Prepare audit documentation with professional formatting
+
+Ensure audit assertions like existence and accuracy are satisfied
+
+🏷️ Tags
+#Excel #Audit #KPMG #Vouching #FinancialAudit #InternshipSimulation
+
+🔗 Inspired by
+This project was inspired by the KPMG Virtual Internship on Forage. It reflects the type of analytical documentation and professional judgment expected in audit engagements.
+
+
+
+
+
 
 
 
