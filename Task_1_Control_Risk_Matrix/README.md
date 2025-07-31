@@ -1,8 +1,19 @@
-# Task 1: Control Risk Matrix
+# Task 1 – Control Risk Matrix
 
-This task involves evaluating and documenting internal control risks using the provided audit leadsheet.
+As part of the KPMG Audit & Assurance Virtual Internship, this task involved reviewing and completing the control risk matrix for Evergreen Inc.
 
-📁 **Files Included:**
-- `Evergreen_Audit_Leadsheet_Task_Completed.xlsx`: The primary audit file used to identify control risks.
-- `leadsheet-screenshot.png`: A visual reference showing the control risk sections filled in the leadsheet file (highlighting revenue triggers and control evaluations).
+## ✅ Deliverables:
+- Excel leadsheet identifying key risks and controls
+- Invoice backup file used for control validation
+
+## 📂 Files:
+- **Evergreen_Audit_Leadsheet_Task_Completed.xlsx**
+- **Evergreen Invoices.pdf**
+
+## 📸 Preview Screenshot
+
+![Control Risk Matrix Screenshot](./Evergreen_Control_Risk_Screenshot.png)
+
+📝 Prepared as part of the KPMG Virtual Internship – Task 1
+
 
