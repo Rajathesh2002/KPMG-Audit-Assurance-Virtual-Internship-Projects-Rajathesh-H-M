@@ -193,6 +193,11 @@ This project demonstrates how sample revenue entries were vouched against origin
 All 5 samples were validated, and **no discrepancies were found**.
 
 
+### 📂 Task 4: Coffee Chat Speaking Notes
+📄 RAJATHESH_HM_Task4_Coffee_Chat_Speaking_Notes.docx
+
+This document contains my prepared speaking notes for a mentorship coffee chat with my Senior Manager during the Evergreen audit engagement. It summarizes the work completed, raises audit-related questions, and reflects on career development opportunities.
+
 
 
 
