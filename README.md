@@ -56,10 +56,13 @@ This project demonstrates my ability to:
 
 This project was inspired by the KPMG Virtual Internship program on Forage, and aligns with real-world deliverables expected from audit associates and analysts.
 
-## 📂 Tasks Overview
+
+
+## 📂 Tasks Completed
 
 - [Task 1: Revenue Lead Sheet](./Task_1_Revenue_LeadSheet)
-- [Task 2: Risk Control Evaluation](./Task_2_Risk_Control_Evaluation)
+- [Task 2: Risk Control Evaluation](./Task_2_Risk_Control_Evaluation/Task_2_Report.md)
+
 
 
 
