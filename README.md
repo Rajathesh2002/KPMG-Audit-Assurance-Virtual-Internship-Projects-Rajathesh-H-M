@@ -131,6 +131,41 @@ This task reflects my ability to:
 
 This project was built as part of the KPMG Virtual Internship on Forage to demonstrate audit-readiness, documentation skills, and accounting diligence expected in real-world engagements.
 
+# KPMG Audit Task 4 – Coffee Chat Speaking Notes (Simulation Task)
+
+This document simulates a real-world team engagement scenario where I prepared for a coffee chat with my Senior Manager at KPMG. The goal was to summarize task progress, raise meaningful audit-related questions, and reflect on personal growth opportunities.
+
+---
+
+## ☕ Objective
+
+To prepare professional **speaking notes** ahead of a stakeholder conversation, discussing:
+
+- Task updates from the Evergreen audit (trial balances, revenue vouching, risk review)
+- Career development queries
+- Reflection on audit fieldwork contribution
+
+---
+
+## 📁 File Contents
+
+- `RAJATHESH_HM_Task4_Coffee_Chat_Speaking_Notes.docx` – My detailed speaking notes for a simulated career-building coffee chat with the audit lead.
+
+---
+
+## ✅ Outcome
+
+This simulation demonstrates:
+- Professional client/stakeholder communication
+- Thoughtful audit engagement reflection
+- Awareness of audit lifecycle and team collaboration
+
+---
+
+## 🏷️ Tags
+
+`#KPMG` `#AuditEngagement` `#CareerDevelopment` `#ExcelAuditTasks` `#CommunicationSkills`
+
 
 
 
