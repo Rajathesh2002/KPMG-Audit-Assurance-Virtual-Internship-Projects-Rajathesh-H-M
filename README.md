@@ -41,7 +41,8 @@ Completed the KPMG Virtual Internship Program via Forage, gaining hands-on exper
 - Focused on networking strategy, communication approach, and personal branding.
 - **Deliverables:**
   - `RAJATHESH_HM_Task4_Coffee_Chat_Speaking_Notes.docx`
-  - ![Screenshot](./Task4_Coffee_Chat_Notes/RAJATHESH_HM_Task4_Coffee_Chat_Speaking_Notes.png)
+  - 🖼️ Screenshot: `RAJATHESH_HM_Task4_Coffee_Chat_Speaking_Notes.png`
+
 
 
 ---
