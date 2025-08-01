@@ -16,12 +16,14 @@ Completed the KPMG Virtual Internship Program via Forage, gaining hands-on exper
 
 ---
 
-### ✅ [Task 2 – Capital Adequacy Check](./Task_2_Capital_Adequacy_Check)
-- Verified RWA and Capital Adequacy Ratio for each operating unit under Basel III.
-- **Deliverables:**
-  - `Capital_Adequacy_Ratio_Summary.docx`
-  - `RWA Info from Operating Units.xlsx`
-  - 📷 Screenshot: `Capital_Adequacy_Ratio_Summary.png`
+### ✅ Task 2 – Risk Control Evaluation
+
+- Analyzed internal controls and identified gaps based on provided documentation.
+- Evaluated the effectiveness of risk mitigation procedures.
+
+📂 **Deliverables:**
+- [📝 Task 2 Report (Markdown)](./Task_2_Risk_Control_Evaluation/Task_2_Report.md)
+
 
 ---
 
