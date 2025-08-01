@@ -36,12 +36,13 @@ Completed the KPMG Virtual Internship Program via Forage, gaining hands-on exper
 
 ---
 
-### ✅ [Task 4 – Coffee Chat Speaking Notes](./Task4_Coffee_Chat_Speaking_Notes)
-- Created structured speaking points for a virtual coffee chat with a KPMG manager.
-- Practiced communication of audit experiences and career aspirations.
+### ✅ [Task 4 – Coffee Chat Notes](./Task4_Coffee_Chat_Notes)
+- Summarized key takeaways and preparation points for a virtual coffee chat session.
+- Focused on networking strategy, communication approach, and personal branding.
 - **Deliverables:**
   - `RAJATHESH_HM_Task4_Coffee_Chat_Speaking_Notes.docx`
-  - 📷 Screenshot: `RAJATHESH_HM_Task4_Coffee_Chat_Speaking_Notes.png`
+  - ![Screenshot](./Task4_Coffee_Chat_Notes/RAJATHESH_HM_Task4_Coffee_Chat_Speaking_Notes.png)
+
 
 ---
 
