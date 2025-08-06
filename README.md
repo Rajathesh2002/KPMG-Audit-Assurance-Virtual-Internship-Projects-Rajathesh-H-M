@@ -56,6 +56,11 @@ Completed the KPMG Virtual Internship Program via Forage, gaining hands-on exper
 
 > ✅ **Project documented on GitHub as proof of practical audit knowledge and job-readiness.**
 
+---
+
+## 📄 Certificate
+
+- 🎓 [KPMG Audit & Assurance Virtual Internship – Certificate of Completion](./Certificate/KPMG_Audit_Internship_Cert_Rajathesh.png)
 
 
 
